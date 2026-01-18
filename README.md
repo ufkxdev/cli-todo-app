@@ -1,36 +1,34 @@
-# CLI Todo Uygulaması 
+#CLI Todo Application
 
-Java ile geliştirilmiş, terminal üzerinden çalışan basit bir **Todo (Yapılacaklar) Uygulaması**.
+A simple Todo (Task Management) Application developed in Java that runs in the terminal.
 
-Bu proje Java öğrenme sürecinde:
-- Dosya okuma/yazma
-- Liste yönetimi
-- Menü tabanlı uygulama mantığı
-  öğrenmek için geliştirilmiştir.
+This project was created during the Java learning process to practice:
 
----
+File reading and writing
 
-## 🚀 Özellikler
+List management
 
-- Görev ekleme
-- Görevleri listeleme
-- Görev silme
-- Görev tamamlandı olarak işaretleme
-- Görevleri dosyada saklama (`todo.txt`)
+Menu-based application logic
 
----
+## 🚀 Features
 
-## 🖥️ Kullanım
-Uygulama terminal üzerinden çalışır.
+Add tasks
 
-## Menü:
+List tasks
 
-### 1 - Görev Ekle
+Delete tasks
 
-### 2 - Görevleri Listele
+Mark tasks as completed
 
-### 3 - Görev Sil
+Persist tasks in a file (todo.txt)
 
-### 4 - Görev Tamamla
+## 🖥️ Usage
 
-### 0 - Çıkış
+The application runs via the terminal.
+
+Menu:
+## 1 - Add Task
+## 2 - List Tasks
+## 3 - Delete Task
+## 4 - Complete Task
+## 0 - Exit
