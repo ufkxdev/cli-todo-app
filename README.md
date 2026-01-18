@@ -1,4 +1,4 @@
-#CLI Todo Application
+# CLI Todo Application
 
 A simple Todo (Task Management) Application developed in Java that runs in the terminal.
 
